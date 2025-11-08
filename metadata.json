@@ -1,0 +1,5 @@
+
+{
+  "name": "MicroBlog Frontend",
+  "description": "A React-based frontend for a microservices-style blogging platform. It simulates user authentication, post creation, and commenting using browser local storage for a complete frontend-only experience."
+}
